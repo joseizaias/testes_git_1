@@ -1,3 +1,4 @@
+### comandos básicos do git na inicialização de um repo
 …or create a new repository on the command line
     echo "# testes_git_1" >> README.md
     git init
